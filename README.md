@@ -1,7 +1,7 @@
 # GL-NLP-Student-Template---Final-Project-Voicebot-July-2023
 Final Project - FAQ Voicebot with Neural Intent Identification
 
-Questions were asked throughout the template and observations were provided by me. 
+Tasks were given for completetion throughout the template and observations were provided by me. 
 
 Course: Transformer Deep Learning for NLP
 
