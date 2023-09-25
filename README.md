@@ -7,6 +7,8 @@ The FAQ Voicebot with Neural Intent Identification - Pizza Ordering is a convers
 
 I completed requested tasks throughout the template and observations were provided by me.
 
+Score: 100/ 100
+
 Skills & Tools Covered:
 Text-to-Speech (TTS), 
 Conversational AI, 
