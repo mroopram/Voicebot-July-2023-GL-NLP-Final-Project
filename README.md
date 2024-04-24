@@ -1,6 +1,6 @@
 ## GL NLP Course: Transformer Deep Learning for NLP
 
-### Final Project July 2023
+### FAQ Voicebot Final Project July 2023
 
 FAQ Voicebot with Neural Intent Identification
 
